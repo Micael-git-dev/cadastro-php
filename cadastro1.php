@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <header>  
+    <head>  
         <meta charset="UTF-8">
         <title>Cadastro 1</title>     
-    </header>
+    </head>
         <body>
             <form action="cadastro2.php" method="post">
             Nome: <input type="text" name="nome" required pattern=".*\s+.*"><br>
