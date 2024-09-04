@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <header>  
+    <head>  
         <meta charset="UTF-8"> 
         <title>Cadastro 2</title>     
-    </header>
+    </head>
         <body>
             <form action="fim_cadastro.php" method="post">
             Senha: <input name="senha" type="password" required minlength="5"><br>
