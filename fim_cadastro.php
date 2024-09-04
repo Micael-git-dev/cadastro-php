@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-    <header>  
+    <head>  
         <meta charset="UTF-8">     
-    </header>
+    </head>
         <body>
             <?php
                 echo "Nome: " . htmlspecialchars ($_POST['nome']) . "<br>";
